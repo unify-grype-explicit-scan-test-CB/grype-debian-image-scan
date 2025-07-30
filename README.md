@@ -1,0 +1,1 @@
+# trivy-alpine-image-scan
